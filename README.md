@@ -1,7 +1,7 @@
 # StratFusion: Synthesizing Diverse Trading Strategies in Evolving Stock Markets
 
 ## Introduction
-Welcome to **StratFusion**, a pioneering project on QuantConnect that integrates a suite of innovative trading strategies. Our mission is to enhance market performance and reduce risks through a unique multi-strategy approach. We’ve meticulously crafted StratFusion by drawing from groundbreaking research in algorithmic trading, aiming to redefine the standards of stock market strategies.
+Welcome to **StratFusion**, a pioneering project on QuantConnect that integrates a suite of innovative trading strategies. Our mission is to enhance market performance and reduce risks through a unique multi-strategy approach. We’ve meticulously crafted StratFusion by drawing from groundbreaking research in algorithmic trading, aiming to redefine the standards of stock market strategies. This is our [final report](https://github.com/QijunYang1/StratFusion/blob/main/Team3_Research_Paper_Math585_Fall2023.pdf).
 
 ## Strategy Overview
 1. **RegimeEvoVAE**: This strategy uses Evolving Variational Autoencoders tailored for specific market regimes, enabling dynamic adaptation to fluctuating market conditions.
